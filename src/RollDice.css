@@ -1,0 +1,9 @@
+.dice-wrapper{
+    display: flex;
+    flex-direction: column;
+
+}
+.dice-container{
+    display: flex;
+    justify-content: center;
+}
